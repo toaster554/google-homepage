@@ -1,0 +1,1 @@
+This is a simple project that aims to replicate the layout of Google's homepage.
